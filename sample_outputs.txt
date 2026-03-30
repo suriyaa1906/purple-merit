@@ -1,0 +1,177 @@
+=================================================================
+  TICKET RESOLUTION: DEMO-001
+=================================================================
+
+1. CLASSIFICATION
+   Category:    RETURN
+   Confidence:  85%
+
+2. CLARIFYING QUESTIONS: None needed
+
+3. DECISION: APPROVE
+
+4. RATIONALE (policy-based)
+   The item was delivered on 2024-10-08 and the return request is within the
+   standard 30-calendar-day return window per [POL-RR-001 § 1.1]. The customer
+   is a standard-tier member, so no extended window applies. The return reason
+   (fit issue) is a valid basis for a standard return. Refund will be to the
+   original credit card per [POL-RR-001 § 2.1], processed in 5–10 business
+   days after return inspection per [POL-RR-001 § 2.1]. Return shipping is
+   at customer expense as this is not a defective item per [POL-RR-001 § 5.1].
+
+5. CITATIONS
+   [POL-RR-001 § 1.1]   Standard Return Period (30 calendar days from delivery)
+   [POL-RR-001 § 2.1]   Original Payment Method Refunds (credit card: 5–10 biz days)
+   [POL-RR-001 § 5.1]   Customer-Paid Returns (non-defective, non-error)
+   [POL-RR-001 § 6.1]   Acceptable Condition for Return
+
+6. CUSTOMER RESPONSE DRAFT
+-----------------------------------------------------------------
+Thank you for reaching out to us! We're happy to help with your
+return for the Blue Jacket from order ORD-DEMO-1.
+
+Since your order was delivered on October 8th, you are within our
+30-day return window and are fully eligible to return this item.
+
+To get started:
+1. Log into your account and visit "My Orders"
+2. Select order ORD-DEMO-1 and click "Start a Return"
+3. Package the item securely (original packaging preferred)
+4. Drop it off at any carrier location
+
+Please note that return shipping costs are the customer's
+responsibility for change-of-mind returns. Once we receive and
+inspect your item (within 3 business days), your refund of $89.99
+will be processed back to your Visa card within 5–10 business days.
+
+Is there anything else we can help you with?
+-----------------------------------------------------------------
+
+7. INTERNAL NOTES
+   Standard return within window. No exceptions needed.
+   Condition assessment required on receipt. No deductions expected
+   if item is unused with tags.
+   Compliance: ✅ PASSED | Rewrites: 0 | Escalated: No
+
+=================================================================
+  TICKET RESOLUTION: DEMO-002
+=================================================================
+
+1. CLASSIFICATION
+   Category:    DEFECTIVE
+   Confidence:  95%
+
+2. CLARIFYING QUESTIONS: None needed
+
+3. DECISION: APPROVE
+
+4. RATIONALE (policy-based)
+   Although this item was marked Final Sale at purchase, the customer
+   reports a manufacturing defect (sparking on first use — a potential
+   fire hazard). Per [POL-RR-001 § 4.1], Final Sale items are
+   non-returnable "except confirmed manufacturer defects." Per
+   [POL-EX-006 § 1.1], the defective item policy (Priority #3 in
+   the hierarchy) explicitly supersedes Final Sale restrictions (Priority #5).
+   The defect was reported within the 90-day defective item window
+   [POL-RR-001 § 1.2]. A prepaid return label must be provided at
+   no cost to the customer per [POL-RR-001 § 3.2], and the customer
+   is entitled to a full refund or free replacement per [POL-RR-001 § 3.2].
+
+5. CITATIONS
+   [POL-RR-001 § 4.1]   Final Sale Items — defect exception clause
+   [POL-RR-001 § 3.1]   Definition of Defective
+   [POL-RR-001 § 3.2]   Defective Item Process (prepaid label, full refund/replacement)
+   [POL-RR-001 § 1.2]   Extended Return Period (90 days for defective)
+   [POL-EX-006 § 1.1]   Policy Hierarchy — defective policy outranks Final Sale
+
+6. CUSTOMER RESPONSE DRAFT
+-----------------------------------------------------------------
+We're very sorry to hear about this experience with your Compact
+Blender — a product sparking on first use is absolutely unacceptable
+and we take safety incidents very seriously.
+
+Although the item was purchased as Final Sale, our policy provides
+a full exception for confirmed manufacturing defects. You are fully
+eligible for either a complete refund or a replacement — whichever
+you prefer.
+
+Here's what happens next:
+1. We will email you a prepaid return shipping label within the
+   next hour (no cost to you)
+2. Please pack the blender safely — do not attempt to use it again
+3. Once received, we will process your refund of $49.99 to your
+   original payment method within 5–10 business days, OR ship a
+   replacement immediately — your choice
+
+Which would you prefer: a full refund or a replacement unit?
+
+We're deeply sorry for the inconvenience and any safety concern
+this may have caused.
+-----------------------------------------------------------------
+
+7. INTERNAL NOTES
+   CONFLICT RESOLVED: Final Sale overridden by defective item exception.
+   Policy hierarchy: POL-EX-006 § 1.1 Priority #3 > Priority #5.
+   Safety incident flagged — route to quality team for product review.
+   Agent must issue prepaid label immediately on response.
+   Compliance: ✅ PASSED | Rewrites: 0 | Escalated: No
+
+=================================================================
+  TICKET RESOLUTION: DEMO-003
+=================================================================
+
+1. CLASSIFICATION
+   Category:    EXCEPTION
+   Confidence:  90%
+
+2. CLARIFYING QUESTIONS: None needed
+
+3. DECISION: ESCALATE
+
+4. RATIONALE (policy-based)
+   The customer is requesting a competitor price match with BestBuy.
+   After searching all available policy documents, no policy exists
+   that governs competitor price matching. This is a not-in-policy
+   request as defined in [POL-EX-006 § 4.1]. Per [POL-EX-006 § 4.2],
+   agents must not invent or assume a policy resolution and must
+   escalate using code NIP-ESCALATE. The customer may be eligible
+   for a standard price adjustment if BestBuy qualifies as the same
+   seller (it does not — price adjustments per [POL-PR-004 § 2.1]
+   apply to our own price reductions only, not competitor pricing).
+
+5. CITATIONS
+   [POL-EX-006 § 4.1]   Definition of Not-In-Policy Request
+   [POL-EX-006 § 4.2]   Handling Procedure — must escalate, code NIP-ESCALATE
+   [POL-PR-004 § 2.1]   Sale Price Guarantee (own prices only, not competitor)
+
+6. CUSTOMER RESPONSE DRAFT
+-----------------------------------------------------------------
+Thank you for being a Gold member and for bringing this to our
+attention!
+
+We appreciate you letting us know about the pricing difference
+you found. Your request is something our standard support team
+is not able to process directly, so we're connecting you with
+a senior specialist who has the authority to review your case
+more thoroughly.
+
+A member of our team will reach out to you within 1 business day.
+Your order details and the pricing information you've shared will
+be passed along to them.
+
+Thank you for your patience — we value your loyalty and want to
+make sure you're fully taken care of.
+-----------------------------------------------------------------
+
+7. INTERNAL NOTES
+   NOT-IN-POLICY REQUEST: Competitor price matching (BestBuy).
+   Escalation code: NIP-ESCALATE
+   Note: POL-PR-004 § 2.1 price adjustment covers OUR price drops only.
+   BestBuy is a competitor, not covered. Do not offer the 7-day
+   adjustment as a substitute without explicit policy authority.
+   Senior specialist to determine ad-hoc resolution and document
+   as precedent per POL-EX-006 § 4.2.
+   Compliance: ❌ FAILED (escalated — no policy evidence for competitor match)
+   Rewrites: 0 | Escalated: YES — Not-in-policy: competitor price matching
+
+=================================================================
